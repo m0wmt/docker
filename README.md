@@ -15,6 +15,7 @@ $ docker-compose up
 Open up the Jupyter Notebook in a browser
 ```bash
 http://127.0.0.1:8888/?token=jkfdsuaire874312389ufdu894373yfdy8934 (example)
+```
 
 ## Shut down docker-compose image
 ```bash
